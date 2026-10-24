@@ -1,6 +1,6 @@
 # TW1 Mods
 
-Compiled mods for Two Worlds 1 by MedievalDev (no source code). They can also be installed with the [TW1 Mod Manager](https://github.com/MedievalDev/TW1_ModManager).
+Mods for Two Worlds 1 by MedievalDev. They can also be installed with the [TW1 Mod Manager](https://github.com/MedievalDev/TW1_ModManager).
 
 | Mod | Version | Files |
 |---|---|---|
@@ -9,4 +9,4 @@ Compiled mods for Two Worlds 1 by MedievalDev (no source code). They can also be
 | [VoiceFix Complete](mods/voicefix-complete) | 1.0 | VoiceFix_Complete.wd |
 | [VoiceFix Dialogs (German only)](mods/voicefix-dialogs-de) | 1.0 | VoiceFix_Dialogs_DE.wd |
 
-Files ending in `_DE` are the German versions. The mods are provided compiled only. See the README in each mod folder for a description.
+Files ending in `_DE` are the German versions. See the README in each mod folder for a description.
