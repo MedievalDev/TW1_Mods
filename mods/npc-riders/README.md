@@ -1,10 +1,12 @@
 # NPC Riders 1.5
 
-Gegner reiten Pferde: Banditen, Orks, Skelette und Gromme besteigen ein Pferd, um dich zu jagen, Lager von Banditen und Gromen bekommen Pferde, Reiter koennen Magier sein.
+Enemies ride horses: bandits, orcs, skeletons and groms mount a horse to chase you, bandit and grom camps get horses, riders can be mages. Works with the original game scripts.
 
-Autor: Medieval_Dev
+Author: Medieval_Dev
 
-Dateien: NPC_Riders.wd, NPC_Riders_DE.wd
+Files: NPC_Riders.wd, NPC_Riders_DE.wd
+
+The files ending in _DE are the German version, the others are English.
 
 Credits:
 - Mod, scripts: Medieval_Dev

@@ -1,10 +1,12 @@
 # VoiceFix Dialogs (German only) 1.0
 
-Holt vier gestrichene Zeilen von Tago, Maxia und Trados zurueck. Sie sind vertont, kommen aber in keinem Dialog vor. Ersetzt die deutsche Dialogdatei, deshalb nur fuer die deutsche Fassung (in jeder anderen Sprache waeren alle Dialoge deutsch). Laeuft allein oder mit VoiceFix Complete oder Bugfix, nicht mit der Kira-Kampagne und nicht mit anderen Mods, die TwoWorldsQuests.lan ersetzen. Kein neues Spiel noetig. Im Spiel noch nicht getestet.
+Brings back four cut voice lines of Tago, Maxia and Trados. They are recorded but appear in no dialog. Replaces the German dialog file, so use it with the German game only (any other language would show all dialogs in German). Works alone or with VoiceFix Complete or Bugfix, not with the Kira campaign or other mods that replace TwoWorldsQuests.lan. No new game needed. Not tested in the game yet.
 
-Autor: MedievalDev (Marco)
+Author: MedievalDev (Marco)
 
-Dateien: VoiceFix_Dialogs_DE.wd
+Files: VoiceFix_Dialogs_DE.wd
+
+The files ending in _DE are the German version, the others are English.
 
 Credits:
 - Marco listened to the four cut lines, assigned them and made all decisions

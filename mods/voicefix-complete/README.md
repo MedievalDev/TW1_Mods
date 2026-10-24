@@ -1,10 +1,10 @@
 # VoiceFix Complete 1.0
 
-Bringt 364 Sprachzeilen ins Spiel, die Two Worlds nie abspielt: eigene Stimmen fuer Ashos, das Armeelager als kleine Stadt mit Soldaten, alte Maenner im Aussenposten, die Lehrer-Antwort 'kann schon alles' und den Ruf, von dem drei Quests sprechen. Enthaelt keine Texte. Nicht mit der Kira-Kampagne. Neues Spiel noetig. VoiceFix Bugfix ausschalten. Nur mit der deutschen Fassung gebaut und verglichen, andere Sprachen ungeprueft, im Spiel noch nicht getestet.
+Brings back 364 voice lines the original never plays: own voices for Ashos, the army camp as a small town with soldiers, old men in the outpost, trainers who answer 'you know it all', and the reputation three quests talk about. Contains no texts. Not with the Kira campaign. Start a NEW game. Switch off VoiceFix Bugfix. Built and compared with the German game only, other languages unchecked, not tested in the game yet.
 
-Autor: MedievalDev (Marco)
+Author: MedievalDev (Marco)
 
-Dateien: VoiceFix_Complete.wd
+Files: VoiceFix_Complete.wd
 
 Credits:
 - Marco listened to the four cut lines, assigned them and made all decisions

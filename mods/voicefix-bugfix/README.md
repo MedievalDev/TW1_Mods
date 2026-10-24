@@ -1,10 +1,10 @@
 # VoiceFix Bugfix Only 1.0
 
-Behebt vier Skriptfehler, durch die 275 vertonte Zeilen nie zu hoeren waren: Ashos-Begruessung und -Wachen, Ashos-Verbrechensdialoge, Lehrer die antworten wenn man alles gelernt hat. Sonst aendert die Mod nichts (keine Karten, Quests oder Texte). Vertraegt sich mit der Kira-Kampagne. Neues Spiel noetig. VoiceFix Complete ausschalten. Nur mit der deutschen Fassung gebaut und verglichen, andere Sprachen ungeprueft, im Spiel noch nicht getestet.
+Fixes four script bugs that keep 275 voiced lines from playing: Ashos greetings and guards, Ashos crime dialogs, trainers who answer when you learned everything. Nothing else changes (no maps, quests or texts). Works with the Kira campaign. Start a NEW game. Switch off VoiceFix Complete. Built and compared with the German game only, other languages unchecked, not tested in the game yet.
 
-Autor: MedievalDev (Marco)
+Author: MedievalDev (Marco)
 
-Dateien: VoiceFix_Bugfix.wd
+Files: VoiceFix_Bugfix.wd
 
 Credits:
 - Marco listened to the four cut lines, assigned them and made all decisions
